@@ -1,8 +1,8 @@
 # Base configs
 baseurl: ""
 url: "http://lenarori.github.io/photography"
-image_fulls_loc: "/images/fulls"
-image_thumbs_loc: "/images/thumbs"
+image_fulls_loc: "photography/images/fulls"
+image_thumbs_loc: "photography/images/thumbs"
 #google_analytics: ""
 
 # UI configs
